@@ -1,0 +1,5 @@
+include README.md
+include solutions/*
+include utils/*
+include LICENSE
+global-exclude .DS_Store, *.swp, *.pyc
